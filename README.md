@@ -1,1 +1,1 @@
-# playing-with-bandit
+# playing-with-github-workflow
