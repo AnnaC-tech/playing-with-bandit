@@ -35,7 +35,6 @@ def login_post():
     login_user(user, remember=remember)
     return redirect(url_for('main.profile'))
 
-    a = 5 + 4
 
     
 
