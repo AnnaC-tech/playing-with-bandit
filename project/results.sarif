@@ -1,1 +1,0 @@
-/home/user/myproject/project/__init__.py:11: B105[bandit]: LOW: Possible hardcoded password: 'secret-key-goes-here'
